@@ -1,0 +1,66 @@
+body{
+	font-family: 'Atkinson Hyperlegible', sans-serif;
+	margin: 0;
+	line-height: 25px;
+	background-color: tan;
+}
+
+header{
+	font-family: Raleway, sans-serif;
+	background-color: salmon;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: black;
+	font-size: 50px;
+	padding-bottom: 10px;
+}
+
+header img{
+	border-radius: 150px;
+	width: 600px;
+	border: 10px solid #000000; 
+}
+
+h2{
+	text-align: center;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px ;
+}
+
+main img{
+	max-width: 100%;
+}
+
+footer{
+	background-color: salmon;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+footer p{
+	margin: 0;
+}
+
+p.caption{
+	color: #555555;
+	font-style: italic;
+	margin: 0;
+}
+
+a{
+	color: navy;
+}
+
+a:hover{
+	color: white;
+	background-color: transparent;
+}
