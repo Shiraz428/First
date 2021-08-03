@@ -50,6 +50,11 @@ footer p{
 	margin: 0;
 }
 
+footer a:hover{
+	color: white;
+	background-color: transparent;
+}
+
 p.caption{
 	color: #555555;
 	font-style: italic;
@@ -61,6 +66,6 @@ a{
 }
 
 a:hover{
-	color: white;
+	color: red;
 	background-color: transparent;
 }
